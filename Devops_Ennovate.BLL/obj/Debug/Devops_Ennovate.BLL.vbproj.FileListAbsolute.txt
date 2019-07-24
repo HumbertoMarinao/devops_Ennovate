@@ -1,0 +1,14 @@
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\bin\Debug\Devops_Ennovate.BLL.dll
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\bin\Debug\Devops_Ennovate.BLL.pdb
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\bin\Debug\Devops_Ennovate.BLL.xml
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\bin\Debug\Devops_Ennovate.DAL.dll
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\bin\Debug\Devops_Ennovate.DAL.pdb
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\bin\Debug\Devops_Ennovate.DAL.xml
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.vbprojAssemblyReference.cache
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.Resources.resources
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.vbproj.GenerateResource.cache
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.vbproj.CopyComplete
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.dll
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.xml
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.BLL\obj\Debug\Devops_Ennovate.BLL.pdb

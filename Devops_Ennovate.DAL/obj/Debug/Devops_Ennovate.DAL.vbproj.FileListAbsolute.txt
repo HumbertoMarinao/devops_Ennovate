@@ -1,0 +1,10 @@
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\bin\Debug\Devops_Ennovate.DAL.dll
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\bin\Debug\Devops_Ennovate.DAL.pdb
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\bin\Debug\Devops_Ennovate.DAL.xml
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\obj\Debug\Devops_Ennovate.DAL.vbprojAssemblyReference.cache
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\obj\Debug\Devops_Ennovate.DAL.Resources.resources
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\obj\Debug\Devops_Ennovate.DAL.vbproj.GenerateResource.cache
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\obj\Debug\Devops_Ennovate.DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\obj\Debug\Devops_Ennovate.DAL.dll
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\obj\Debug\Devops_Ennovate.DAL.xml
+C:\Users\Usuario1\Desktop\Devops_Ennovate\Devops_Ennovate.DAL\obj\Debug\Devops_Ennovate.DAL.pdb
